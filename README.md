@@ -18,21 +18,26 @@ goals :
 
 The project consists of 
 
-- building the ontology itself using Protégé^[ Musen, M.A. The Protégé project:
-  A look back and a look forward. AI Matters. Association of Computing Machinery
-  Specific Interest Group in Artificial Intelligence, 1(4), June 2015. DOI:
-  10.1145/2557001.25757003.] ;
-- writing the related documentation using LODE^[Peroni, S., Shotton, D., Vitali,
-  F. (2012). The Live OWL Documentation Environment: a tool for the automatic
-  generation of ontology documentation. To appear in Proceedings of the 18th
-  International Conference on Knowledge Engineering and Knowledge Management
-  (EKAW 2012). Available at
-  http://speroni.web.cs.unibo.it/publications/peroni-2012-live-documentation-environment.pdf]
-  ^[Peroni, S., Shotton, D., Vitali, F. (2013). Tools for the automatic
+- building the ontology itself using Protégé[^1] ;
+- writing the related documentation using LODE[^2] [^3].
+  
+
+[^1]: Musen, M.A. The Protégé project: A look back and a look forward. AI Matters.
+  Association of Computing Machinery Specific Interest Group in Artificial
+  Intelligence, 1(4), June 2015.  DOI:
+  10.1145/2557001.25757003.]oni-2013-tools-automatic-generation.pdf.
+
+[^2]: Peroni, S., Shotton, D., Vitali, F. (2012). The Live OWL Documentation
+  Environment: a tool for the automatic generation of ontology documentation. To
+  appear in Proceedings of the 18th International Conference on Knowledge
+  Engineering and Knowledge Management (EKAW 2012). Available at
+  http://speroni.web.cs.unibo.it/publications/peroni-2012-live-documentation-environment.pdf
+
+[^3]: Peroni, S., Shotton, D., Vitali, F. (2013). Tools for the automatic
   generation of ontology documentation: a task-based evaluation. To appear in
   International Journal on Semantic Web and Information Systems, 9 (1).
   Available at
-  http://speroni.web.cs.unibo.it/publications/peroni-2013-tools-automatic-generation.pdf].
+  http://speroni.web.cs.unibo.it/publications/peroni-2013-tools-automatic-generation.pdf 
 
 # Installation
 
