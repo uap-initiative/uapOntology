@@ -94,11 +94,11 @@ Please encode files and characters in **UTF-8**.
 
 - **Fork** the repository ;
 - Clone the forked repository on your computer ;
-- Create some local branch from `editing` which is the working/dev branch ;
-- Work, commit then merge your local branches into `editing` ;
+- Create some local branch from `dev` which is the working/developpment branch ;
+- Work, commit then merge your local branches into `dev` ;
 - Push your work and make **pull requests** to merge it into the `uapOntology`
-  repository `editing` remote branch.
-- When a public release is ready, the remote `editing` branch is merged into
+  repository `dev` remote branch.
+- When a public release is ready, the remote `dev` branch is merged into
   `master`, updating the project website.
 
 Here are some usefull [GitHub guides](https://guides.github.com/). Please
