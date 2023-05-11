@@ -64,7 +64,6 @@ This project is open to contributors !
 We need your help to :
 
 - define ontology classes, properties and annotations ;
-- correct ontology ;
 - correct spelling.
 
 More instructions and tips : please see [CONTRIBUTING](CONTRIBUTING.md) and
